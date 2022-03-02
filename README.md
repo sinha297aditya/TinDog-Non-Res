@@ -1,2 +1,1 @@
-# TinDog-Non-Res
-Checking for viewport reposivness.
+TinDog Starting Files
